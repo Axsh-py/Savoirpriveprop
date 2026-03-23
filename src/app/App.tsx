@@ -134,11 +134,14 @@ export default function App() {
                       <h2 className="text-xl md:text-2xl lg:text-3xl text-white mb-2 md:mb-3 tracking-wide font-light">
                         INTERNATIONAL
                       </h2>
-                      <p className="text-white/60 text-xs md:text-sm tracking-[0.2em] mb-4 md:mb-6 uppercase">
-                        Dubai • UAE • Global
+                      <p className="text-white/60 text-xs md:text-sm tracking-[0.2em] mb-3 md:mb-4 uppercase">
+                        Global Projects • Prime Markets
+                      </p>
+                      <p className="mx-auto max-w-sm text-white/70 text-sm md:text-base leading-relaxed mb-4 md:mb-6">
+                        Explore internationally curated residences, investment-led addresses, and standout lifestyle communities.
                       </p>
                       <div className="inline-flex items-center gap-2 md:gap-3 text-[#C9A961] text-xs tracking-[0.3em] opacity-0 group-hover:opacity-100 transition-all duration-700">
-                        <span>VIEW PROPERTIES</span>
+                        <span>VIEW GLOBAL PROJECTS</span>
                         <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17 8l4 4m0 0l-4 4m4-4H3" />
                         </svg>
